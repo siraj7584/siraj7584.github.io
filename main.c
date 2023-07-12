@@ -6,6 +6,6 @@ int main(int argc, const char * argv[])
 
 
 
-	puts("Hi From Emscripten");
+	puts("Hi from Arshad");
 	return 0;
 }
